@@ -5,6 +5,4 @@ The link for the drive with the Yolo Model, OpenCV data, and additional image pr
 
 https://drive.google.com/drive/folders/1i2-qEcEDS_3t1bFoLsgbVOs3mSQlY_33?usp=sharing
 
-Below is a video that summarizes the basic overview of the project
 
-https://www.youtube.com/watch?v=L4PStvcQRpk&t=78s
